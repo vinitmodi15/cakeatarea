@@ -1,0 +1,40 @@
+#app {
+  height: 50%;
+}
+html,
+.swiper1 {
+  position: relative;
+  height: 80%;
+}
+
+.swiper1 {
+  background-image: url("https://img.freepik.com/premium-photo/blue-concrete-stone-surface-paint-wall-background_7190-3727.jpg?size=626&ext=jpg&ga=GA1.2.1489845207.1688472149&semt=ais");
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 7px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+
+.swiper {
+  width: 30%;
+  height: 20%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 7px;
+  background: #fff;
+
+  /* Center slide text vertically */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display:block;
+  width: 100%;
+  height: 100%;
+  object-fit: none;
+}

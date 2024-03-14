@@ -1,0 +1,609 @@
+.menu {
+    font-size: 70px;
+    /* background-image: url("https://img.freepik.com/free-photo/green-paint-wall-background-texture_53876-23269.jpg?w=996&t=st=1688503507~exp=1688504107~hmac=89a6434642be32bf53cbac7bab08f5d69c1b7b6a2d3b8ad812ed9f025ddd4312"); */
+    padding: 9% 0;
+    width: 100%;
+    height: 350px;
+    text-align: center;
+    margin: auto;
+    color: rgb(186, 241, 190);
+}
+
+.menu:hover {
+    color: black;
+    -webkit-text-fill-color: rgb(0, 0, 0);
+    /* Will override color (regardless of order) */
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(0, 0, 0);
+}
+
+.head {
+    background-image: url("https://img.freepik.com/free-photo/green-paint-wall-background-texture_53876-23269.jpg?w=996&t=st=1688503507~exp=1688504107~hmac=89a6434642be32bf53cbac7bab08f5d69c1b7b6a2d3b8ad812ed9f025ddd4312");
+    background-size: cover;
+  
+}
+
+.menubody {
+    background-image: url("https://img.freepik.com/free-vector/green-background-design_1399-14.jpg?size=626&ext=jpg&ga=GA1.2.1489845207.1688472149&semt=ais");
+}
+
+.bakery {
+    font-size: 40px;
+    text-align: center;
+    margin: 4% 0;
+
+}
+
+.cake2 img {
+    margin-left: 190px;
+    display: flex;
+    border: 1px solid black;
+    border-radius: 20px;
+    border-color: transparent;
+    transition: 1s ease;
+
+}
+
+.cake2 img:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+
+.muffin img:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+
+.cookie2 img:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+
+.bread img:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+
+.brownie img:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+
+.rusk img:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+
+.cream-roll img:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+
+.pie img:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+
+.donuts img:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+
+.cheesecake img:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+
+.pudding img:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+
+.biscuits img:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+
+.cone img:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+
+.kulfi img:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+
+.chocolates img:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+
+.mousse img:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+
+.espresso img:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+
+.ice-tea img:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+
+
+.cake2 h2 {
+    text-align: center;
+    margin-left: 175px;
+    font-size: 30px;
+    padding: 4% 0;
+}
+
+.cake2 p {
+    text-align: center;
+    margin-left: 175px;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+.muffin img {
+    margin-left: 200px;
+    border: 1px solid black;
+    border-radius: 20px;
+    border-color: transparent;
+    transition: 1s ease;
+}
+
+.muffin h2 {
+    text-align: center;
+    margin-left: 190px;
+    font-size: 30px;
+    padding: 4% 0;
+}
+
+.muffin p {
+    text-align: center;
+    margin-left: 190px;
+    font-size: 20px;
+
+}
+
+.category1 {
+    display: flex;
+}
+
+.cookie2 img {
+    margin-left: 230px;
+    border: 1px solid black;
+    border-radius: 20px;
+    border-color: transparent;
+    transition: 1s ease;
+}
+
+.cookie2 h2 {
+    text-align: center;
+    margin-left: 210px;
+    font-size: 30px;
+    padding: 4% 0;
+}
+
+.cookie2 p {
+    text-align: center;
+    margin-left: 210px;
+    font-size: 20px;
+
+}
+
+
+
+.bread img {
+    margin-left: 190px;
+    display: flex;
+    border: 1px solid black;
+    border-radius: 20px;
+    border-color: transparent;
+    transition: 1s ease;
+
+}
+
+.bread h2 {
+    text-align: center;
+    margin-left: 175px;
+    font-size: 30px;
+    padding: 4% 0;
+}
+
+.bread p {
+    text-align: center;
+    margin-left: 175px;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+.brownie img {
+    margin-left: 200px;
+    border: 1px solid black;
+    border-radius: 20px;
+    border-color: transparent;
+    transition: 1s ease;
+}
+
+.brownie h2 {
+    text-align: center;
+    margin-left: 190px;
+    font-size: 30px;
+    padding: 4% 0;
+}
+
+.brownie p {
+    text-align: center;
+    margin-left: 190px;
+    font-size: 20px;
+
+}
+
+.category2 {
+    display: flex;
+}
+
+.rusk img {
+    margin-left: 230px;
+    border: 1px solid black;
+    border-radius: 20px;
+    border-color: transparent;
+    transition: 1s ease;
+}
+
+.rusk h2 {
+    text-align: center;
+    margin-left: 210px;
+    font-size: 30px;
+    padding: 4% 0;
+}
+
+.rusk p {
+    text-align: center;
+    margin-left: 210px;
+    font-size: 20px;
+
+}
+
+
+
+.cream-roll img {
+    margin-left: 190px;
+    display: flex;
+    border: 1px solid black;
+    border-radius: 20px;
+    border-color: transparent;
+    transition: 1s ease;
+
+}
+
+.cream-roll h2 {
+    text-align: center;
+    margin-left: 175px;
+    font-size: 30px;
+    padding: 4% 0;
+}
+
+.cream-roll p {
+    text-align: center;
+    margin-left: 175px;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+.pie img {
+    margin-left: 200px;
+    border: 1px solid black;
+    border-radius: 20px;
+    border-color: transparent;
+    transition: 1s ease;
+}
+
+.pie h2 {
+    text-align: center;
+    margin-left: 190px;
+    font-size: 30px;
+    padding: 4% 0;
+}
+
+.pie p {
+    text-align: center;
+    margin-left: 190px;
+    font-size: 20px;
+
+}
+
+.category3 {
+    display: flex;
+}
+
+.donuts img {
+    margin-left: 230px;
+    border: 1px solid black;
+    border-radius: 20px;
+    border-color: transparent;
+    transition: 1s ease;
+}
+
+.donuts h2 {
+    text-align: center;
+    margin-left: 210px;
+    font-size: 30px;
+    padding: 4% 0;
+}
+
+.donuts p {
+    text-align: center;
+    margin-left: 210px;
+    font-size: 20px;
+
+}
+
+
+.cheesecake img {
+    margin-left: 190px;
+    display: flex;
+    border: 1px solid black;
+    border-radius: 20px;
+    border-color: transparent;
+    transition: 1s ease;
+
+}
+
+.cheesecake h2 {
+    text-align: center;
+    margin-left: 175px;
+    font-size: 30px;
+    padding: 4% 0;
+}
+
+.cheesecake p {
+    text-align: center;
+    margin-left: 175px;
+    font-size: 20px;
+
+}
+
+.pudding img {
+    margin-left: 200px;
+    border: 1px solid black;
+    border-radius: 20px;
+    border-color: transparent;
+    transition: 1s ease;
+}
+
+.pudding h2 {
+    text-align: center;
+    margin-left: 190px;
+    font-size: 30px;
+    padding: 4% 0;
+}
+
+.pudding p {
+    text-align: center;
+    margin-left: 190px;
+    font-size: 20px;
+
+}
+
+.category4 {
+    display: flex;
+}
+
+.biscuits img {
+    margin-left: 230px;
+    border: 1px solid black;
+    border-radius: 20px;
+    border-color: transparent;
+    transition: 1s ease;
+}
+
+.biscuits h2 {
+    text-align: center;
+    margin-left: 210px;
+    font-size: 30px;
+    padding: 4% 0;
+}
+
+.biscuits p {
+    text-align: center;
+    margin-left: 210px;
+    font-size: 20px;
+
+}
+
+
+.dessert {
+    font-size: 40px;
+    text-align: center;
+    margin: 4% 0;
+
+}
+
+.cone img {
+    margin-left: 190px;
+    display: flex;
+    border: 1px solid black;
+    border-radius: 20px;
+    border-color: transparent;
+    transition: 1s ease;
+
+}
+
+.cone h2 {
+    text-align: center;
+    margin-left: 175px;
+    font-size: 30px;
+    padding: 4% 0;
+}
+
+.cone p {
+    text-align: center;
+    margin-left: 175px;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+.kulfi img {
+    margin-left: 200px;
+    border: 1px solid black;
+    border-radius: 20px;
+    border-color: transparent;
+    transition: 1s ease;
+}
+
+.kulfi h2 {
+    text-align: center;
+    margin-left: 190px;
+    font-size: 30px;
+    padding: 4% 0;
+}
+
+.kulfi p {
+    text-align: center;
+    margin-left: 190px;
+    font-size: 20px;
+
+}
+
+.category5 {
+    display: flex;
+}
+
+.chocolates img {
+    margin-left: 230px;
+    border: 1px solid black;
+    border-radius: 20px;
+    border-color: transparent;
+    transition: 1s ease;
+}
+
+.chocolates h2 {
+    text-align: center;
+    margin-left: 210px;
+    font-size: 30px;
+    padding: 4% 0;
+}
+
+.chocolates p {
+    text-align: center;
+    margin-left: 210px;
+    font-size: 20px;
+
+}
+
+
+.mousse img {
+    margin-left: 190px;
+    display: flex;
+    border: 1px solid black;
+    border-radius: 20px;
+    border-color: transparent;
+    transition: 1s ease;
+
+}
+
+.mousse h2 {
+    text-align: center;
+    margin-left: 175px;
+    font-size: 30px;
+    padding: 4% 0;
+}
+
+.mousse p {
+    text-align: center;
+    margin-left: 175px;
+    font-size: 20px;
+
+}
+
+.espresso img {
+    margin-left: 200px;
+    border: 1px solid black;
+    border-radius: 20px;
+    border-color: transparent;
+    transition: 1s ease;
+}
+
+.espresso h2 {
+    text-align: center;
+    margin-left: 190px;
+    font-size: 30px;
+    padding: 4% 0;
+}
+
+.espresso p {
+    text-align: center;
+    margin-left: 190px;
+    font-size: 20px;
+
+}
+
+.category6 {
+    display: flex;
+
+}
+
+.ice-tea img {
+    margin-left: 230px;
+    border: 1px solid black;
+    border-radius: 20px;
+    border-color: transparent;
+    transition: 1s ease;
+}
+
+.ice-tea h2 {
+    text-align: center;
+    margin-left: 210px;
+    font-size: 30px;
+    padding: 4% 0;
+}
+
+.ice-tea p {
+    text-align: center;
+    margin-left: 210px;
+    font-size: 20px;
+
+}

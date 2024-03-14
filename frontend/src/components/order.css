@@ -1,0 +1,105 @@
+*{
+  /* outline: 1px solid black; */
+}
+.order {
+    background-color: rgb(255, 255, 255);
+    font-size: 70px;
+    /* height: 350px; */
+    font-family: Georgia;
+    
+    /* padding-top: 3%; */
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    opacity: 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: beige;
+  }
+  .order:hover {
+    color: black;
+    -webkit-text-fill-color: rgb(0, 0, 0);
+    /* Will override color (regardless of order) */
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(0, 0, 0);
+}
+ .kuchbhi{
+    background-image: url("https://img.freepik.com/free-vector/abstract-sunset-sky-background_23-2148383810.jpg?w=996&t=st=1688507654~exp=1688508254~hmac=f474cd3ca76412fa58be60312cd8bf4e33ec0ed0f7c403da866eb9ac010d9111");
+    
+  }
+  
+  .header {
+    background-color: rgb(245, 217, 168);
+    font-size: 40px;
+    height: 350px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-top: 120px;
+    opacity: 50px;
+    background-image: url("https://img.freepik.com/free-photo/multicolored-tie-dye-fabric-surface_23-2148730039.jpg?size=626&ext=jpg&ga=GA1.1.1489845207.1688472149&semt=ais");
+  
+    opacity: 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+  }
+  
+  .btn button {
+    font-family: Georgia;
+    color: #120c12;
+    font-size: 15px;
+    /* background: white; */
+    /* padding: 9px 20px 10px 20px; */
+    text-decoration: none;
+    padding: 10px;
+    float: left;
+    border: 0.5px solid black;
+    display: inline;
+  }
+  
+  button:hover {
+    background: #d1dadfe0;
+    text-decoration: none;
+  }
+  
+  .category_heading h2,.category_heading h3 {
+     text-align: center;
+     text-decoration: none;
+  }
+
+  .categoryMainDiv{
+    display: flex ;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    max-width: 1000px;
+    margin: 0px auto;
+    /* text-decoration: none; */
+    color: black;
+    /* background-color: transparent; */
+  }
+  
+  .categoryBox{
+   width: 300px;
+   height: 200px;
+    background-color: rgb(197, 191, 191) ;
+    margin: 20px 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    background-image: url("https://img.freepik.com/premium-photo/this-is-abstract-watercolor-shading-brush-texture_297030-1539.jpg?size=626&ext=jpg&ga=GA1.1.1489845207.1688472149&semt=ais");
+ 
+  }
+#link {
+  text-decoration: none;
+}
+
+  .categoryBox:hover {
+    background-color: rgb(250, 222, 180);
+    -webkit-transition: margin 0.5s ease-out;
+    -moz-transition: margin 0.5s ease-out;
+    -o-transition: margin 0.5s ease-out;
+    cursor: pointer;
+    margin-top: 5px;
+  }
